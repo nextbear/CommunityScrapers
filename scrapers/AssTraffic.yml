@@ -2,6 +2,7 @@ name: "AssTraffic"
 sceneByURL:
   - action: scrapeXPath
     url:
+      - perfectgonzo.com/movies/
       - asstraffic.com/movies/
       - spermswap.com/movies/
     scraper: sceneScraper
@@ -9,6 +10,7 @@ sceneByURL:
 performerByURL:
   - action: scrapeXPath
     url:
+      - perfectgonzo.com/models/
       - asstraffic.com/models/
     scraper: performerScraper
 
